@@ -1,8 +1,8 @@
 # safewebapi
 SafeWebのAPIを紹介しますｗｗ
 
-<a href="https://safeweb.norton.com/safeweb/sites/v1/details?url=google.com&insert=0">Googleのidを取得。</a><br>
-<a href="https://safeweb.norton.com/safeweb/sites/v1/448/reviews?sortType=1&pageNo=1&pageSize=2">idからコメントなどを取得。</a><br>
+<a href="https://safeweb.norton.com/safeweb/sites/v1/details?url=google.com&insert=0">Googleのidを取得。</a> <- 1番目<br>
+<a href="https://safeweb.norton.com/safeweb/sites/v1/448/reviews?sortType=1&pageNo=1&pageSize=2">idからコメントなどを取得。</a> <- 2番目
 <br>
 <p>
   APIURLリスト<br>
