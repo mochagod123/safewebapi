@@ -8,4 +8,5 @@ SafeWebのAPIを紹介しますｗｗ
   APIURLリスト<br>
   https://safeweb.norton.com/safeweb/sites/v1/details?url=ここにURLを入れる&insert=0<br>
   https://safeweb.norton.com/safeweb/sites/v1/ここにIDを入れる/reviews?sortType=1&pageNo=1&pageSize=2<br>
-</p>
+</p><br>
+<a href="https://discord.com/oauth2/authorize?client_id=1259436641848791092&permissions=8&integration_type=0&scope=bot+applications.commands">この機能があるBotを招待する。</a>
